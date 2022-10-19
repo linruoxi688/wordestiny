@@ -1,0 +1,18 @@
+name: json_to_model
+description: Generate model class from Json file.
+version: 3.0.0
+homepage: https://github.com/fadhilx/json_to_model
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  args: ^2.0.0
+  logging: ^1.0.1
+  path: ^1.8.0
+  yaml: ^3.1.0
+  quiver: any
+
+dev_dependencies:
+  lint: ^1.5.1
+  test: ^1.15.6

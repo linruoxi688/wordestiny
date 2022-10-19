@@ -1,0 +1,15 @@
+{
+  "articleBriefInfo":{
+    "title": "",
+    "articleId": "",
+    "frontImageUrl": "",
+    "articleUrl": "",
+    "imageName": ""
+  },
+  "sentence": {
+    "id": 123,
+    "articleId": "",
+    "sentenceIndex": "",
+    "content": ""
+  }
+}

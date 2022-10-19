@@ -1,0 +1,17 @@
+{
+  "word": {
+    "wordId": "",
+    "wordContent": "",
+    "pronoucneUrl": "",
+    "explain": {
+      "explainId": 1,
+      "explainContext": ""
+    }
+  },
+  "context": "",
+  "origin": {
+    "articleId": "",
+    "sentenceId": 1,
+    "subscrcipt": 1
+  }
+}

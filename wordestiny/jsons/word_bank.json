@@ -1,0 +1,23 @@
+{
+  "page": 1,
+  "totalPage": 1,
+  "size": 1,
+  "limitSize": 1,
+  "wordInfo": {
+    "word": {
+      "wordId": "",
+      "wordContent": "",
+      "pronoucneUrl": "",
+      "explain": {
+        "explainId": 1,
+        "explainContext": ""
+      }
+    },
+    "context": "",
+    "origin": {
+      "articleId": "",
+      "sentenceId": 1,
+      "subscrcipt": 1
+    }
+  }
+}

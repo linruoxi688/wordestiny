@@ -1,0 +1,20 @@
+{
+  "NewWord": {
+    "id": "",
+    "userId": "",
+    "wordContent": "",
+    "master": 1.3,
+    "createTime": "",
+    "word": {
+      "word": ""
+    },
+    "memories": {
+      "id": "",
+      "userId": "",
+      "wordId": "",
+      "sentenceId": 111,
+      "wordIndex": "",
+      "createTime": ""
+    }
+  }
+}
